@@ -1,0 +1,20 @@
+C:\Users\1\Desktop\ШАГ\Windows Forms\Tick_Tack_Toe\Tick_Tack_Toe\bin\Debug\Tick_Tack_Toe.exe.config
+C:\Users\1\Desktop\ШАГ\Windows Forms\Tick_Tack_Toe\Tick_Tack_Toe\bin\Debug\Tick_Tack_Toe.exe
+C:\Users\1\Desktop\ШАГ\Windows Forms\Tick_Tack_Toe\Tick_Tack_Toe\bin\Debug\Tick_Tack_Toe.pdb
+C:\Users\1\Desktop\ШАГ\Windows Forms\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\ШАГ\Windows Forms\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.Form1.resources
+C:\Users\1\Desktop\ШАГ\Windows Forms\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.Properties.Resources.resources
+C:\Users\1\Desktop\ШАГ\Windows Forms\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.csproj.GenerateResource.cache
+C:\Users\1\Desktop\ШАГ\Windows Forms\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ШАГ\Windows Forms\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.exe
+C:\Users\1\Desktop\ШАГ\Windows Forms\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.pdb
+\\Mac\Home\Downloads\Tick_Tack_Toe\Tick_Tack_Toe\Tick_Tack_Toe\bin\Debug\Tick_Tack_Toe.exe.config
+\\Mac\Home\Downloads\Tick_Tack_Toe\Tick_Tack_Toe\Tick_Tack_Toe\bin\Debug\Tick_Tack_Toe.exe
+\\Mac\Home\Downloads\Tick_Tack_Toe\Tick_Tack_Toe\Tick_Tack_Toe\bin\Debug\Tick_Tack_Toe.pdb
+\\Mac\Home\Downloads\Tick_Tack_Toe\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Tick_Tack_Toe\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.Form1.resources
+\\Mac\Home\Downloads\Tick_Tack_Toe\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.Properties.Resources.resources
+\\Mac\Home\Downloads\Tick_Tack_Toe\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Tick_Tack_Toe\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Tick_Tack_Toe\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.exe
+\\Mac\Home\Downloads\Tick_Tack_Toe\Tick_Tack_Toe\Tick_Tack_Toe\obj\Debug\Tick_Tack_Toe.pdb
